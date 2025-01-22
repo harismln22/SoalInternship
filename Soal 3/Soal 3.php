@@ -16,6 +16,8 @@ function cekBrackets($input) {
             return;
         }
     }
+    // Output no jika bracket pasangan tidak sama/valid
+    echo "NO\n";
 }
 
 // input pengguna
